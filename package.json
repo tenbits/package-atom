@@ -1,12 +1,11 @@
 {
-  "name": "language-mask",
-  "version": "0.0.0",
-  "description": "Mask language pack",
-  "repository": "https://github.com/tenbits/package-atom-mask",
-  "license": "MIT",
-  "engines": {
-    "atom": ">0.50.0"
-  },
-  "dependencies": {
-  }
+    "name": "language-mask",
+    "version": "0.0.1",
+    "description": "Mask language pack",
+    "repository": "https://github.com/tenbits/package-atom",
+    "license": "MIT",
+    "engines": {
+        "atom": ">0.50.0"
+    },
+    "dependencies": {}
 }
